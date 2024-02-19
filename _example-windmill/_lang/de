@@ -1,0 +1,124 @@
+#		@@@@@@@   @@@  @@@   @@@@@@@@  @@@@@@@@  @@@   @@@@@@   @@@  @@@  
+#		@@@@@@@@  @@@  @@@  @@@@@@@@@  @@@@@@@@  @@@  @@@@@@@   @@@  @@@  
+#		@@!  @@@  @@!  @@@  !@@        @@!       @@!  !@@       @@!  @@@  
+#		!@   @!@  !@!  @!@  !@!        !@!       !@!  !@!       !@!  @!@  
+#		@!@!@!@   @!@  !@!  !@! @!@!@  @!!!:!    !!@  !!@@!!    @!@!@!@!  
+#		!!!@!!!!  !@!  !!!  !!! !!@!!  !!!!!:    !!!   !!@!!!   !!!@!!!!  
+#		!!:  !!!  !!:  !!!  :!!   !!:  !!:       !!:       !:!  !!:  !!!  
+#		:!:  !:!  :!:  !:!  :!:   !::  :!:       :!:      !:!   :!:  !:!  
+#		 :: ::::  ::::: ::   ::: ::::   ::        ::  :::: ::   ::   :::  
+#		:: : ::    : :  :    :: :: :    :        :    :: : :     :   : :  www.bugfish.eu
+#		 _____   ____  _____ ______      ____  __ __  ____       ____   ____   ____    ___ 
+#		|     | /    |/ ___/|      |    |    \|  |  ||    \     |    \ /    | /    |  /  _]
+#		|   __||  o  (   \_ |      |    |  o  )  |  ||  o  )    |  o  )  o  ||   __| /  [_ 
+#		|  |_  |     |\__  ||_|  |_|    |   _/|  _  ||   _/     |   _/|     ||  |  ||    _]
+#		|   _] |  _  |/  \ |  |  |      |  |  |  |  ||  |       |  |  |  _  ||  |_ ||   [_ 
+#		|  |   |  |  |\    |  |  |      |  |  |  |  ||  |       |  |  |  |  ||     ||     |
+#		|__|   |__|__| \___|  |__|      |__|  |__|__||__|       |__|  |__|__||___,_||_____|
+# This is a comment!
+# Here you can enter translations for DE (German) like below!
+# New Translation options should be applied to this sites config.php _HIVE_LANG_ARRAY_
+# This files are public visible! You can use Database Mode if you want your translations hidden.
+head_template=Template
+nav_sub_item=Subeintrag
+nav_sub_login=Login
+nav_sub_general=Allgemein
+nav_sub_charts=Diagramme
+nav_sub_forms=Formulare
+nav_sub_tables=Tabellen
+nav_sub_submenue=Submenü
+nav_sub_profile=Profil
+nav_sub_logout=Logout
+nav_sub_button=Konto erstellen
+top_bar_search=Suchen
+404_title=Nicht gefunden!
+404_text=Der angeforderte Inhalt wurde nicht gefunden!
+login_already=Sie haben bereits ein Konto? 
+login_create=Konto erstellen
+login_agb=AGB Akzeptieren
+login_mail=Mail
+login_pass=Passwort
+table_client=Kunde
+table_value=Wert
+table_state=Status
+table_date=Datum
+table_label=Label
+table_listcount=Es wurden X Einträge gefunden!
+table_withavatars=Tabelle mit Avatar Bildern
+table_tables=Tabellen
+table_withactions=Tabelle mit Aktionen
+form_select=Auswahl
+form_forms=Formulare
+form_elements=Elemente
+form_name=Eingabefeld
+form_radio=Radio Auswahl
+form_business=Geschäft
+form_personal=Personal
+form_multiselect=Mehrfachauswahl
+form_checkbox=Checkbox
+form_textarea=Textarea
+form_entersmto=Geben Sie einen Wert ein
+form_buttons=Schaltflächen
+form_ir=Icon Rechts
+form_br=Schaltfläche Rechts
+form_il=Icon Links
+form_bl=Schaltfläche Links
+form_exec=Ausführen
+form_icons=Icons
+form_validation=Validierungen
+form_invalid=Ungültiger Wert
+form_invalid_text=Fehlermeldung bei Aktion
+form_valid=Gültiger Wert
+form_valid_text=Nachricht bei gültiger Aktion
+form_helper=Hilfetext
+form_helper_text=Dieser Hilfetext wird angezeigt
+form_option=Auswahloption
+chart_charts=Diagramme
+chart_pie=Kreisdiagramm
+chart_line=Liniendiagramm
+chart_bar=Balkendiagramm
+chart_1=Charts werden bereitgestellt von 
+chart_2= . Beachte, dass die Standard-Legenden deaktiviert sind und du eine Beschreibung für deine Diagramme in HTML bereitstellen solltest. Siehe den Quellcode für Beispiele.
+g_applytext=Verwende "w-full" für jeden Button, um einen Block-Level-Button zu erstellen.
+g_goal=Projekt Ziel
+g_goal_t=Im Herzen unserer Plattform liegt ein revolutionäres CMS, das darauf abzielt, Grenzen zu überschreiten und frische Ideen sowie Funktionalitäten in die Welt der Backend PHP-Entwicklung und des Webhostings einzubringen. Wir sind hier, um die Landschaft neu zu definieren und die Art und Weise zu transformieren, wie Fachleute ihre Arbeit angehen. Unsere Verpflichtung zur Innovation kennt keine Grenzen, und wir laden Sie ein, sich uns anzuschließen und die Zukunft der Webentwicklung und des Hostings mitzugestalten.<br ><br >Im Kern unserer Plattform findest du ein CMS, das das Spiel neu definiert, wegweisende Ideen und Funktionalitäten in die Welt der Backend PHP-Entwicklung und des Webhostings integriert. Unsere Herangehensweise besteht darin, deine berufliche Reise auf neue Höhen zu katapultieren. Wir sind kompromisslos der Innovation verpflichtet und laden Sie ein, Teil der Evolution zu sein, die das Gesicht der Webentwicklung und des Hostings verändert.
+g_gggithub=Github URLs
+g_info=Information
+g_ok=OK
+g_warning=Warnung
+g_error=Fehler
+g_multiple=Mehrfach
+g_alerts=Benachrichtigungen
+g_buttons=Schaltflächen
+g_icons=Icons
+g_modal_title=PopUps
+g_cards=Boxen
+g_bigsectioncard=Volle Breite Box
+g_responsivecards=Responsive Card
+g_example=Beispiel
+g_cardswithtitle=Box mit Titel
+g_evbclose=Okay
+g_evb=Eventboxen
+g_modal=Popup Sweetalert
+g_xjspopup=XJS Popup (Bugfish Framework)
+g_xjspopup_close=Schließen
+g_regularbutton=Normaler Button
+g_sizes=Normale Schaltflächen
+g_primary=Primär
+g_credit=Danksagung
+g_seegit=Github Repository
+g_seedoc=Dokumentation
+g_seegitm=URL Öffnen
+g_info_t=Das "_example-windmill"-Theme ist eine fortschrittliche und funktionsreiche Option innerhalb unseres CMS-Ökosystems. Es ist maßgeschneidert für Benutzer, die eine anspruchsvolle, aber benutzerfreundliche Lösung suchen, um schnell responsive Websites mit dynamischer Navigation zu erstellen. Im Gegensatz zu seinem einfacheren Pendant, dem "_example-minimal"-Theme, bietet das "_example-windmill"-Theme eine breitere Palette von Funktionen und Designelementen und ermöglicht so ein anspruchsvolleres und visuell ansprechendes Layout. Es zeigt, wie das CMS Site-Modul-Ordner verwendet, um seine Aufbau- und Bereitstellungsfunktionalitäten zu initialisieren. Alle Informationen, die Sie benötigen, finden Sie in den README.md-Dateien in den Website-Ordnern, die den Sinn erklären, und Sie können eine vollständige Demonstration als Site-Modul oder über den oben stehenden Link erhalten.<br /><br />Dieses Theme basiert auf dem Envato Windmill Theme. Wenn Sie dieses Theme verwenden und eine Website erstellen möchten, werfen Sie einen Blick auf den Code für dieses Site-Modul!<br /><br />Mit einem Fokus auf Reaktionsfähigkeit stellt dieses Theme sicher, dass Ihre Website nahtlos auf verschiedenen Geräten aussieht und funktioniert. Es enthält ein responsives Navigationssystem, das die Benutzererfahrung sowohl auf Desktop- als auch auf mobilen Plattformen optimiert.<br /><br />Darüber hinaus finden Sie im Ordner "_site" das "_administrator"-Site-Modul. Dieses Modul verfügt über eine umfassende und dynamische Administrator-Schnittstelle, die Benutzern ermöglicht, ihre Websites effizient zu verwalten und anzupassen. Es bietet komplexe Funktionen zur Steuerung aller Klassen und erweiterten Funktionen dieses CMS. Es wird mit einem Store geliefert, der verwendet werden kann.<br /><br />Der Fokus dieses Moduls liegt darauf, alle Ordner und Konfigurationen zu erklären, die festgelegt werden können. Wenn Sie also Hilfe benötigen, schauen Sie in dieses Site-Modul, um Inspirationen dafür zu erhalten, wie Sie mit diesem gegebenen CMS entwickeln können.<br /><br />Hinweis: Das "Bugfish PHP Framework" ist vollständig in dieses CMS integriert. Eine ausführliche Dokumentation ist auf GitHub verfügbar oder kann im "docs"-Ordner innerhalb der Repositories gefunden werden. Tauchen Sie in die umfassende Dokumentation ein, um die Fähigkeiten und Funktionen des Bugfish Frameworks für eine verbesserte Website-Erstellung zu nutzen.<br /><br />Um Funktionalitäten zu testen und den Administrationsbereich anzuzeigen, besuchen Sie: "<a href="./developer.php">./developer.php</a>" - Diese Datei funktioniert nur, wenn "_HIVE_MOD_CHANGES_" über die Administrations-Schnittstelle oder "ruleset.php" im Wurzelverzeichnis der Website aktiviert ist. Um sich als Administrator anzumelden, besuchen Sie: "<a href="./_core/_action/admin_switch.php">./_core/_action/admin_switch.php</a>".
+g_credit_t=In unserer Projektdokumentation möchten wir dem Envato Windmill Dashboard Theme-Team unseren herzlichen Dank aussprechen. Die nahtlose Integration in das Fast PHP Page Framework hat nicht nur zu einem ansprechenden Design beigetragen, sondern auch die Entwicklungs- und Deploying-Prozesse erheblich vereinfacht. <br /><br /> Die Github Seite des Windmill Projekts, welches für dieses gerade angesehene Seitenmodul als Vorlage diente, finden sie hier: <a href="https://github.com/estevanmaito/windmill-dashboard" rel="noopener" target="_blank">https://github.com/estevanmaito/windmill-dashboard</a>
+g_theme_changes=Ändere Sitzungsthema
+g_theme_orange=Orange
+g_theme_dyn=Dynamisch
+g_theme_purple=Lila
+g_theme_green=Grün
+g_theme_color=Ändere Dynamische Themafarbe
+g_theme_color_change=Farbe ändern
+g_themela=Sprache erfolgreich geändert!
+g_themeco=Farbe erfolgreich geändert!
+g_themete=Thema erfolgreich geändert!
+g_themetesu=Unterthema erfolgreich geändert!

@@ -1,0 +1,124 @@
+#		@@@@@@@   @@@  @@@   @@@@@@@@  @@@@@@@@  @@@   @@@@@@   @@@  @@@  
+#		@@@@@@@@  @@@  @@@  @@@@@@@@@  @@@@@@@@  @@@  @@@@@@@   @@@  @@@  
+#		@@!  @@@  @@!  @@@  !@@        @@!       @@!  !@@       @@!  @@@  
+#		!@   @!@  !@!  @!@  !@!        !@!       !@!  !@!       !@!  @!@  
+#		@!@!@!@   @!@  !@!  !@! @!@!@  @!!!:!    !!@  !!@@!!    @!@!@!@!  
+#		!!!@!!!!  !@!  !!!  !!! !!@!!  !!!!!:    !!!   !!@!!!   !!!@!!!!  
+#		!!:  !!!  !!:  !!!  :!!   !!:  !!:       !!:       !:!  !!:  !!!  
+#		:!:  !:!  :!:  !:!  :!:   !::  :!:       :!:      !:!   :!:  !:!  
+#		 :: ::::  ::::: ::   ::: ::::   ::        ::  :::: ::   ::   :::  
+#		:: : ::    : :  :    :: :: :    :        :    :: : :     :   : :  www.bugfish.eu
+#		 _____   ____  _____ ______      ____  __ __  ____       ____   ____   ____    ___ 
+#		|     | /    |/ ___/|      |    |    \|  |  ||    \     |    \ /    | /    |  /  _]
+#		|   __||  o  (   \_ |      |    |  o  )  |  ||  o  )    |  o  )  o  ||   __| /  [_ 
+#		|  |_  |     |\__  ||_|  |_|    |   _/|  _  ||   _/     |   _/|     ||  |  ||    _]
+#		|   _] |  _  |/  \ |  |  |      |  |  |  |  ||  |       |  |  |  _  ||  |_ ||   [_ 
+#		|  |   |  |  |\    |  |  |      |  |  |  |  ||  |       |  |  |  |  ||     ||     |
+#		|__|   |__|__| \___|  |__|      |__|  |__|__||__|       |__|  |__|__||___,_||_____|
+# This is a comment!
+# Here you can enter translations for DE (German) like below!
+# New Translation options should be applied to this sites config.php _HIVE_LANG_ARRAY_
+# This files are public visible! You can use Database Mode if you want your translations hidden.
+head_template=Plantilla
+nav_sub_item=Subítem
+nav_sub_login=Iniciar sesión
+nav_sub_general=General
+nav_sub_charts=Gráficos
+nav_sub_forms=Formularios
+nav_sub_tables=Tablas
+nav_sub_submenue=Submenú
+nav_sub_profile=Perfil
+nav_sub_logout=Cerrar sesión
+nav_sub_button=Crear cuenta
+top_bar_search=Buscar
+404_title=No encontrado
+404_text=El contenido solicitado no fue encontrado.
+login_already=¿Ya tienes una cuenta?
+login_create=Crear cuenta
+login_agb=Aceptar Términos y Condiciones
+login_mail=Correo electrónico
+login_pass=Contraseña
+table_client=Cliente
+table_value=Valor
+table_state=Estado
+table_date=Fecha
+table_label=Etiqueta
+table_listcount=Se encontraron X entradas
+table_withavatars=Tabla con imágenes de avatar
+table_tables=Tablas
+table_withactions=Tabla con acciones
+form_select=Selección
+form_forms=Formularios
+form_elements=Elementos
+form_name=Campo de entrada
+form_radio=Selección de radio
+form_business=Negocio
+form_personal=Personal
+form_multiselect=Selección múltiple
+form_checkbox=Casilla de verificación
+form_textarea=Área de texto
+form_entersmto=Ingrese un valor
+form_buttons=Botones
+form_ir=Icono a la derecha
+form_br=Botón a la derecha
+form_il=Icono a la izquierda
+form_bl=Botón a la izquierda
+form_exec=Ejecutar
+form_icons=Iconos
+form_validation=Validaciones
+form_invalid=Valor no válido
+form_invalid_text=Error al realizar la acción
+form_valid=Valor válido
+form_valid_text=Mensaje al realizar una acción válida
+form_helper=Texto de ayuda
+form_helper_text=Este texto de ayuda se mostrará
+form_option=Opción de selección
+chart_charts=Gráficos
+chart_pie=Gráfico circular
+chart_line=Gráfico de líneas
+chart_bar=Gráfico de barras
+chart_1=Los gráficos son proporcionados por
+chart_2=. Ten en cuenta que las leyendas predeterminadas están desactivadas y debes proporcionar una descripción en HTML para tus gráficos. Consulta el código fuente para ejemplos.
+g_applytext=Utiliza "w-full" para cada botón y crear un botón de nivel de bloque.
+g_goal=Objetivo del proyecto
+g_goal_t=En el corazón de nuestra plataforma se encuentra un CMS revolucionario que tiene como objetivo traspasar límites y aportar ideas y funcionalidades frescas al mundo del desarrollo PHP del lado del servidor y del alojamiento web. Estamos aquí para redefinir el panorama y transformar la manera en que los profesionales abordan su trabajo. Nuestra dedicación a la innovación no conoce límites, y te invitamos a unirte a nosotros para dar forma al futuro del desarrollo web y del alojamiento.
+g_gggithub=URLs de Github
+g_info=Información
+g_ok=OK
+g_warning=Advertencia
+g_error=Error
+g_multiple=Múltiple
+g_alerts=Alertas
+g_buttons=Botones
+g_icons=Iconos
+g_modal_title=PopUps
+g_cards=Cajas
+g_bigsectioncard=Caja de ancho completo
+g_responsivecards=Caja receptiva
+g_example=Ejemplo
+g_cardswithtitle=Caja con título
+g_evbclose=OK
+g_evb=Cajas de evento
+g_modal=Ventana emergente Sweetalert
+g_xjspopup=Popup XJS (Framework Bugfish)
+g_xjspopup_close=Cerrar
+g_regularbutton=Botón normal
+g_sizes=Botones normales
+g_primary=Primario
+g_credit=Agradecimientos
+g_seegit=Repositorio Github
+g_seedoc=Documentación
+g_seegitm=Abrir URL
+g_info_t=El tema "_example-windmill" es una opción avanzada y rica en funciones dentro de nuestro ecosistema CMS. Está diseñado a medida para usuarios que buscan una solución sofisticada pero fácil de usar para crear rápidamente sitios web receptivos con navegación dinámica. A diferencia de su contraparte más simple, el tema "_example-minimal", el tema "_example-windmill" ofrece una amplia gama de funciones y elementos de diseño, permitiendo un diseño más sofisticado y visualmente atractivo. Muestra cómo el módulo de sitio del CMS utiliza carpetas para inicializar sus funcionalidades de construcción y despliegue. Toda la información que necesitas se encuentra en los archivos README.md en las carpetas del sitio, que explican el propósito, y puedes obtener una demostración completa como un módulo de sitio o a través del enlace mencionado.<br /><br />Este tema se basa en el tema Envato Windmill. Si estás utilizando este tema y deseas crear un sitio web, echa un vistazo al código de este módulo de sitio.<br /><br />Con un enfoque en la capacidad de respuesta, este tema asegura que tu sitio web se vea y funcione sin problemas en diferentes dispositivos. Incluye un sistema de navegación receptivo que optimiza la experiencia del usuario tanto en escritorios como en plataformas móviles.<br /><br />Además, en la carpeta "_site" encontrarás el módulo de sitio "_administrator". Este módulo cuenta con una interfaz de administrador completa y dinámica que permite a los usuarios gestionar y personalizar eficientemente sus sitios web. Ofrece funciones complejas para controlar todas las clases y características avanzadas de este CMS. Viene con una tienda que se puede utilizar.<br /><br />El enfoque de este módulo es explicar todas las carpetas y configuraciones que se pueden ajustar. Si necesitas ayuda, consulta este módulo de sitio para obtener inspiración sobre cómo desarrollar con este CMS en particular. <br /><br />Nota: El "Bugfish PHP Framework" está completamente integrado en este CMS. Una documentación detallada está disponible en GitHub o en la carpeta "docs" dentro de los repositorios. Sumérgete en la documentación completa para aprovechar las capacidades y funciones del Framework Bugfish para mejorar la creación de sitios web.<br /><br /> Para probar funcionalidades y ver el área de administración, visita: "<a href="./developer.php">./developer.php</a>" - Este archivo solo funciona si "_HIVE_MOD_CHANGES_" está habilitado a través de la interfaz de administración o "ruleset.php" en el directorio raíz del sitio. Para iniciar sesión como administrador, visita: "<a href="./_core/_action/admin_switch.php">./_core/_action/admin_switch.php</a>".
+g_credit_t=En nuestra documentación del proyecto, queremos expresar nuestro sincero agradecimiento al equipo del tema Envato Windmill Dashboard. La integración perfecta con el Fast PHP Page Framework no solo contribuyó a un diseño atractivo, sino que también simplificó significativamente los procesos de desarrollo e implementación. Puedes encontrar la página de Github del proyecto Windmill, que sirvió como plantilla para este módulo de página, aquí: [<a href="https://github.com/estevanmaito/windmill-dashboard" rel="noopener" target="_blank">https://github.com/estevanmaito/windmill-dashboard</a>].
+g_theme_changes=Cambiar tema de sesión
+g_theme_orange=Naranja
+g_theme_dyn=Dinámico
+g_theme_purple=Morado
+g_theme_green=Verde
+g_theme_color=Cambiar color del tema dinámico
+g_theme_color_change=Cambiar color
+g_themela=¡Idioma cambiado exitosamente!
+g_themeco=¡Color cambiado exitosamente!
+g_themete=¡Tema cambiado exitosamente!
+g_themetesu=¡Subtema cambiado exitosamente!

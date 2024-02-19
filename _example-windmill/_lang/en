@@ -1,0 +1,126 @@
+#		@@@@@@@   @@@  @@@   @@@@@@@@  @@@@@@@@  @@@   @@@@@@   @@@  @@@  
+#		@@@@@@@@  @@@  @@@  @@@@@@@@@  @@@@@@@@  @@@  @@@@@@@   @@@  @@@  
+#		@@!  @@@  @@!  @@@  !@@        @@!       @@!  !@@       @@!  @@@  
+#		!@   @!@  !@!  @!@  !@!        !@!       !@!  !@!       !@!  @!@  
+#		@!@!@!@   @!@  !@!  !@! @!@!@  @!!!:!    !!@  !!@@!!    @!@!@!@!  
+#		!!!@!!!!  !@!  !!!  !!! !!@!!  !!!!!:    !!!   !!@!!!   !!!@!!!!  
+#		!!:  !!!  !!:  !!!  :!!   !!:  !!:       !!:       !:!  !!:  !!!  
+#		:!:  !:!  :!:  !:!  :!:   !::  :!:       :!:      !:!   :!:  !:!  
+#		 :: ::::  ::::: ::   ::: ::::   ::        ::  :::: ::   ::   :::  
+#		:: : ::    : :  :    :: :: :    :        :    :: : :     :   : :  www.bugfish.eu
+#		 _____   ____  _____ ______      ____  __ __  ____       ____   ____   ____    ___ 
+#		|     | /    |/ ___/|      |    |    \|  |  ||    \     |    \ /    | /    |  /  _]
+#		|   __||  o  (   \_ |      |    |  o  )  |  ||  o  )    |  o  )  o  ||   __| /  [_ 
+#		|  |_  |     |\__  ||_|  |_|    |   _/|  _  ||   _/     |   _/|     ||  |  ||    _]
+#		|   _] |  _  |/  \ |  |  |      |  |  |  |  ||  |       |  |  |  _  ||  |_ ||   [_ 
+#		|  |   |  |  |\    |  |  |      |  |  |  |  ||  |       |  |  |  |  ||     ||     |
+#		|__|   |__|__| \___|  |__|      |__|  |__|__||__|       |__|  |__|__||___,_||_____|
+# This is a comment!
+# Here you can enter translations for DE (German) like below!
+# New Translation options should be applied to this sites config.php _HIVE_LANG_ARRAY_
+# This files are public visible! You can use Database Mode if you want your translations hidden.
+
+head_template=Template
+nav_sub_item=Subitem
+nav_sub_login=Login
+nav_sub_general=General
+nav_sub_charts=Charts
+nav_sub_forms=Forms
+nav_sub_tables=Tables
+nav_sub_submenue=Submenu
+nav_sub_profile=Profile
+nav_sub_logout=Logout
+nav_sub_button=Create Account
+top_bar_search=Search
+404_title=Not Found!
+404_text=The requested content was not found!
+login_already=Already have an account? 
+login_create=Create Account
+login_agb=Accept Terms and Conditions
+login_mail=Email
+login_pass=Password
+table_client=Client
+table_value=Value
+table_state=Status
+table_date=Date
+table_label=Label
+table_listcount=X entries found!
+table_withavatars=Table with Avatar Images
+table_tables=Tables
+table_withactions=Table with Actions
+form_select=Selection
+form_forms=Forms
+form_elements=Elements
+form_name=Input Field
+form_radio=Radio Selection
+form_business=Business
+form_personal=Personal
+form_multiselect=Multiple Selection
+form_checkbox=Checkbox
+form_textarea=Textarea
+form_entersmto=Enter a value
+form_buttons=Buttons
+form_ir=Icon Right
+form_br=Button Right
+form_il=Icon Left
+form_bl=Button Left
+form_exec=Execute
+form_icons=Icons
+form_validation=Validations
+form_invalid=Invalid Value
+form_invalid_text=Error message on action
+form_valid=Valid Value
+form_valid_text=Message on valid action
+form_helper=Help text
+form_helper_text=This help text will be displayed
+form_option=Selection Option
+chart_charts=Charts
+chart_pie=Pie Chart
+chart_line=Line Chart
+chart_bar=Bar Chart
+chart_1=Charts provided by 
+chart_2= . Note that default legends are disabled, and you should provide a description for your charts in HTML. See the source code for examples.
+g_applytext=Use "w-full" for each button to create a block-level button.
+g_goal=Project Goal
+g_goal_t=At the heart of our platform is a revolutionary CMS aiming to push boundaries and bring fresh ideas and functionalities to the world of backend PHP development and web hosting. We are here to redefine the landscape and transform how professionals approach their work. Our commitment to innovation knows no bounds, and we invite you to join us in shaping the future of web development and hosting.<br ><br >At the core of our platform, you'll find a CMS that redefines the game, integrating groundbreaking ideas and functionalities into the world of backend PHP development and web hosting. Our approach is to catapult your professional journey to new heights. We are unwaveringly committed to innovation and invite you to be part of the evolution that changes the face of web development and hosting.
+g_gggithub=Github URLs
+g_info=Information
+g_ok=OK
+g_warning=Warning
+g_error=Error
+g_multiple=Multiple
+g_alerts=Notifications
+g_buttons=Buttons
+g_icons=Icons
+g_modal_title=Popups
+g_cards=Boxes
+g_bigsectioncard=Full-Width Box
+g_responsivecards=Responsive Card
+g_example=Example
+g_cardswithtitle=Box with Title
+g_evbclose=OK
+g_evb=Event Boxes
+g_modal=Popup Sweetalert
+g_xjspopup=XJS Popup (Bugfish Framework)
+g_xjspopup_close=Close
+g_regularbutton=Regular Button
+g_sizes=Normal Buttons
+g_primary=Primary
+g_credit=Acknowledgment
+g_seegit=Github Repository
+g_seedoc=Documentation
+g_seegitm=Open URL
+g_info_t=The "_example-windmill" theme is an advanced and feature-rich option within our CMS ecosystem. It is tailored for users seeking a sophisticated yet user-friendly solution to quickly create responsive websites with dynamic navigation. Unlike its simpler counterpart, the "_example-minimal" theme, the "_example-windmill" theme offers a wider range of features and design elements, allowing for a more sophisticated and visually appealing layout. It demonstrates how the CMS Site Module Folder is used to initialize its construction and deployment functionalities. All the information you need is in the README.md files in the website folders, explaining the purpose, and you can access a complete demonstration as a site module or through the link above.<br /><br />This theme is based on the Envato Windmill Theme. If you are using this theme and want to create a website, take a look at the code for this site module!<br /><br />With a focus on responsiveness, this theme ensures that your website looks and functions seamlessly on various devices. It includes a responsive navigation system that optimizes the user experience on both desktop and mobile platforms.<br /><br />Additionally, in the "_site" folder, you'll find the "_administrator" site module. This module features a comprehensive and dynamic administrative interface, allowing users to efficiently manage and customize their websites. It provides complex controls for all classes and advanced features of this CMS. It comes with a store that can be used.<br /><br />The focus of this module is to explain all the folders and configurations that can be set. So, if you need help, refer to this site module for inspirations on how to develop with this given CMS.<br /><br />Note: The "Bugfish PHP Framework" is fully integrated into this CMS. Detailed documentation is available on GitHub or can be found in the "docs" folder within the repositories. Dive into the comprehensive documentation to leverage the capabilities and features of the Bugfish Framework for enhanced website creation.<br /><br />To test functionalities and view the administration area, visit: "<a href="./developer.php">./developer.php</a>" - This file only works if "_HIVE_MOD_CHANGES_" is enabled through the administration interface or "ruleset.php" in the website's root directory. To log in as an administrator, visit: "<a href="./_core/_action/admin_switch.php">./_core/_action/admin_switch.php</a>".
+g_credit_t=In our project documentation, we would like to express our heartfelt thanks to the Envato Windmill Dashboard Theme team. The seamless integration into the Fast PHP Page Framework has not only contributed to an appealing design but has also significantly simplified the development and deploying processes. <br /><br />The Github page of the Windmill project, which served as a template for this currently viewed site module, can be found here: <a href="https://github.com/estevanmaito/windmill-dashboard" rel="noopener" target="_blank">https://github.com/estevanmaito/windmill-dashboard</a>
+
+g_theme_changes=Change Session Theme
+g_theme_orange=Orange
+g_theme_dyn=Dynamic
+g_theme_purple=Purple
+g_theme_green=Green
+g_theme_color=Change Dynamic Theme Color
+g_theme_color_change=Change Color
+g_themela=Language changed successfully!
+g_themeco=Color changed successfully!
+g_themete=Theme changed successfully!
+g_themetesu=Subtheme changed successfully!
