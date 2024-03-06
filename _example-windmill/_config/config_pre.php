@@ -61,7 +61,7 @@
 	## Language Settings
 	#####################################################################################
 		define("_HIVE_LANG_DEFAULT_", 			"en"); # Array with Default Language
-		define("_HIVE_LANG_ARRAY_", 			array("en", "de", "es")); # Array with valid Languages
+		define("_HIVE_LANG_ARRAY_", 			array("en", "de", "es", "jp")); # Array with valid Languages
 		define("_HIVE_LANG_DB_", 				false); # False = Use Language Files in SITE/_lang / True = Use Language Database
 		#_HIVE_LANG_ Contains current choosen Language
 		

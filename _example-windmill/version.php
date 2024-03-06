@@ -25,23 +25,19 @@
 	*/	
 	$x = array();
 	$x["rname"] 		= "_example-windmill";
-	$x["build"] 		= "212";
-	$x["version"] 		= "2.".$x["build"];
-	$x["iframe"] 		= false;
+	$x["name"] 			= "Windmill Example Module";
+	
+	$x["short"] 		= "This module contains the official documentation for you to get insights about integrated functions, classes templates and more! You can also find on <a href=\"https://bugfishtm.github.io\" rel='noopener' target=\"_blank\">https://bugfishtm.github.io</a>!";
+	$x["build"] 		= "100";
+	$x["version"] 		= "1.".$x["build"];
+	$x["iframe"] 		= true;
 	$x["view"] 			= true;
 	$x["singleuse"] 	= false;
-	$x["cat"] 			= "dev";
-	$x["lang"] 			= array("en", "de", "es");
-	$x["license"] 		= "MIT";
+	$x["cat"] 			= "documentation";
+	$x["license"] 		= "GPLv3";
 	$x["autor"] 		= "Jan-Maurice Dahlmanns";
 	$x["pseudo"] 		= "Bugfish";
 	$x["mail"] 			= "requests@bugfish.eu";
 	$x["website"] 		= "www.bugfish.eu";
-	$x["name"] 			= "Template: Windmill Theme";
-	$x["short"] 		= "The Windmill Theme Template is a comprehensive showcase highlighting the diverse functionalities and detailed configuration examples within the CMS. It gives a simple overview on how folders connected to the CMS and Site modules can be used to get your projects done.";
-	$x["description"] 	= '<p>The FP2 Complexe Example Template is a comprehensive showcase within the CMS, offering practical examples and in-depth configurations to guide users in building robust websites. It provides an overview of connected folders related to site modules and simple functionalities, featuring the frontend theme "Windmill" with credits to the author Estevan Maito, whose repository is at <a rel="noopener" href="https://github.com/estevanmaito/windmill-dashboard" target="_blank">https://github.com/estevanmaito/windmill-dashboard</a> under the MIT License.</p>
-
-    <p>The FP2 Windmill Example Template takes exploration to an advanced level, offering a testing ground for intricate dashboard themes and sophisticated CMS functionalities. It\'s a valuable resource for developers and users seeking practical insights into the CMS\'s powerful aspects. Both templates include Module Documentation for user guidance, and additional documentations are available at <a rel="noopener" href="https://bugfishtm.github.io" target="_blank">https://bugfishtm.github.io</a>.';
-	
-
-    
+	$x["lang"] 			= array("en", "es", "ja", "de");
+	$x["description"] 	= $x["short"];

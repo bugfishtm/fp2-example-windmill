@@ -40,6 +40,9 @@
 		$lang_ar[2]["ident"] = "es";
 		$lang_ar[2]["img"] = _HIVE_URL_REL_."/_core/_vendor/country-flags-icons/png/es.png";
 		$lang_ar[2]["name"] = "Español";
+		$lang_ar[3]["ident"] = "jp";
+		$lang_ar[3]["img"] = _HIVE_URL_REL_."/_core/_vendor/country-flags-icons/png/jp.png";
+		$lang_ar[3]["name"] = "日本語";
 	
 	#####################################################################################
 	## Navigation Selection Settings

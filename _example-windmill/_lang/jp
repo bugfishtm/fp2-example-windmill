@@ -1,0 +1,123 @@
+#		@@@@@@@   @@@  @@@   @@@@@@@@  @@@@@@@@  @@@   @@@@@@   @@@  @@@  
+#		@@@@@@@@  @@@  @@@  @@@@@@@@@  @@@@@@@@  @@@  @@@@@@@   @@@  @@@  
+#		@@!  @@@  @@!  @@@  !@@        @@!       @@!  !@@       @@!  @@@  
+#		!@   @!@  !@!  @!@  !@!        !@!       !@!  !@!       !@!  @!@  
+#		@!@!@!@   @!@  !@!  !@! @!@!@  @!!!:!    !!@  !!@@!!    @!@!@!@!  
+#		!!!@!!!!  !@!  !!!  !!! !!@!!  !!!!!:    !!!   !!@!!!   !!!@!!!!  
+#		!!:  !!!  !!:  !!!  :!!   !!:  !!:       !!:       !:!  !!:  !!!  
+#		:!:  !:!  :!:  !:!  :!:   !::  :!:       :!:      !:!   :!:  !:!  
+#		 :: ::::  ::::: ::   ::: ::::   ::        ::  :::: ::   ::   :::  
+#		:: : ::    : :  :    :: :: :    :        :    :: : :     :   : :  www.bugfish.eu
+#		 _____   ____  _____ ______      ____  __ __  ____       ____   ____   ____    ___ 
+#		|     | /    |/ ___/|      |    |    \|  |  ||    \     |    \ /    | /    |  /  _]
+#		|   __||  o  (   \_ |      |    |  o  )  |  ||  o  )    |  o  )  o  ||   __| /  [_ 
+#		|  |_  |     |\__  ||_|  |_|    |   _/|  _  ||   _/     |   _/|     ||  |  ||    _]
+#		|   _] |  _  |/  \ |  |  |      |  |  |  |  ||  |       |  |  |  _  ||  |_ ||   [_ 
+#		|  |   |  |  |\    |  |  |      |  |  |  |  ||  |       |  |  |  |  ||     ||     |
+#		|__|   |__|__| \___|  |__|      |__|  |__|__||__|       |__|  |__|__||___,_||_____|
+# This is a comment!
+# Here you can enter translations for DE (German) like below!
+# New Translation options should be applied to this sites config.php _HIVE_LANG_ARRAY_
+# This files are public visible! You can use Database Mode if you want your translations hidden.
+head_template=テンプレート
+nav_sub_item=サブアイテム
+nav_sub_login=ログイン
+nav_sub_general=一般
+nav_sub_charts=チャート
+nav_sub_forms=フォーム
+nav_sub_tables=テーブル
+nav_sub_submenue=サブメニュー
+nav_sub_profile=プロフィール
+nav_sub_logout=ログアウト
+nav_sub_button=アカウントを作成
+top_bar_search=検索
+404_title=見つかりません！
+404_text=リクエストされたコンテンツが見つかりませんでした！
+login_already=すでにアカウントをお持ちですか？
+login_create=アカウントを作成
+login_agb=利用規約に同意
+login_mail=メール
+login_pass=パスワード
+table_client=クライアント
+table_value=値
+table_state=状態
+table_date=日付
+table_label=ラベル
+table_listcount=Xのエントリが見つかりました！
+table_withavatars=アバター画像付きテーブル
+table_tables=テーブル
+table_withactions=アクション付きテーブル
+form_select=選択
+form_forms=フォーム
+form_elements=要素
+form_name=名前フィールド
+form_radio=ラジオ選択
+form_business=ビジネス
+form_personal=個人
+form_multiselect=複数選択
+form_checkbox=チェックボックス
+form_textarea=テキストエリア
+form_entersmto=値を入力してください
+form_buttons=ボタン
+form_ir=アイコン右
+form_br=ボタン右
+form_il=アイコン左
+form_bl=ボタン左
+form_exec=実行
+form_icons=アイコン
+form_validation=検証
+form_invalid=無効な値
+form_invalid_text=アクション時のエラーメッセージ
+form_valid=有効な値
+form_valid_text=有効なアクション時のメッセージ
+form_helper=ヘルプテキスト
+form_helper_text=このヘルプテキストが表示されます
+form_option=オプション選択
+chart_charts=チャート
+chart_pie=円グラフ
+chart_line=折れ線グラフ
+chart_bar=棒グラフ
+chart_1=チャートは提供されています
+chart_2=。標準の凡例が無効になっていることに注意し、チャートに関する説明をHTMLで提供する必要があります。例についてはソースコードを参照してください。
+g_applytext=ブロックレベルのボタンを作成するには、すべてのボタンに "w-full" を使用します。
+g_goal=プロジェクトの目標
+g_goal_t=当社のプラットフォームの核心には、革新的なCMSがあります。これは、バックエンドのPHP開発とWebホスティングの世界に新しいアイデアと機能をもたらすことを目指しています。私たちは、風景を再定義し、専門家が仕事に取り組む方法を変革することを目指しています。私たちの革新への取り組みは限りがありません。そして、あなたを私たちに参加し、Web開発とホスティングの未来を形作ることに招待します。<br /><br />当社のプラットフォームの核心には、ゲームを再定義するCMSがあります。これは、バックエンドのPHP開発とWebホスティングの世界に先駆的なアイデアと機能を統合します。私たちのアプローチは、あなたのキャリアを新たな高みに押し上げることです。私たちは革新に妥協しません。そして、Web開発とホスティングの顔を変える進化の一部になることを歓迎します。
+g_gggithub=GithubのURL
+g_info=情報
+g_ok=OK
+g_warning=警告
+g_error=エラー
+g_multiple=複数
+g_alerts=アラート
+g_buttons=ボタン
+g_icons=アイコン
+g_modal_title=ポップアップ
+g_cards=ボックス
+g_bigsectioncard=全幅ボックス
+g_responsivecards=レスポンシブカード
+g_example=例
+g_cardswithtitle=タイトル付きボックス
+g_evbclose=閉じる
+g_evb=イベントボックス
+g_modal=ポップアップSweetalert
+g_xjspopup=XJSポップアップ（Bugfishフレームワーク）
+g_xjspopup_close=閉じる
+g_regularbutton=通常のボタン
+g_sizes=通常のサイズのボタン
+g_primary=プライマリ
+g_credit=クレジット
+g_seegit=Githubリポジトリ
+g_seedoc=ドキュメント
+g_seegitm=URLを開く
+g_info_t="_example-windmill"テーマは、当社のCMSエコシステム内で高度で機能豊富なオプションです。これは、ダイナミックなナビゲーションを備えた応答性の高いウェブサイトを素早く作成するための洗練されたが使いやすいソリューションを求めるユーザー向けにカスタマイズされています。よ
+g_themetesu=サブテーマの変更が成功しました！
+g_theme_changes=セッションのテーマを変更
+g_theme_orange=オレンジ
+g_theme_dyn=ダイナミック
+g_theme_purple=パープル
+g_theme_green=グリーン
+g_theme_color=ダイナミックテーマの色を変更
+g_theme_color_change=色を変更
+g_themela=言語が正常に変更されました！
+g_themeco=色が正常に変更されました！
+g_themete=テーマが正常に変更されました！
