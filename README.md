@@ -38,6 +38,7 @@ To integrate this Fast PHP Page Module into your website, you have two installat
 ## Repository Structure
 - `.git`: Repository-related information.
 - `.github`: Sponsorship-related files.
+- `docs`: Small Documentation for Github Pages.
 - `_releases`: Module installation files for administrative interfaces or manual installation.
 - 'modulename': Module-specific folder for administrative installations, with installable releases available in the `_releases` folder.
 - `_images`: Images for the readme file and documentation.
